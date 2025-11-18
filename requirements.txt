@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+numpy
+scipy
+pytz
+
+httpx>=0.24

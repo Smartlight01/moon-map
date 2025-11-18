@@ -1,0 +1,1 @@
+FINNHUB_TOKEN='d37skf1r01qskrehmt0gd37skf1r01qskrehmt10'
